@@ -53,6 +53,9 @@ The analysis provides actionable insights for hospital management:
 - Identifying high-pressure departments such as Neurology that require operational improvements.
 - Implementing real-time dashboard monitoring to support data-driven hospital management decisions.
 
+## Key Insight
+An analysis of 9,219 patient visit records revealed that hospital operational efficiency is significantly impacted by extreme arrival surges at 00:00 (436 visits), resulting in an average wait time of 35.26 minutes. While the Renal unit recorded the fastest service duration, it surprisingly yielded the lowest satisfaction scores, whereas the Neurology unit was identified as the primary bottleneck with the highest wait times. These findings indicate a strong correlation between wait duration and declining patient satisfaction, leading to strategic recommendations for staff redistribution during night shifts (22:00 – 01:00), process audits within the Neurology unit, and hospitality training for the Renal unit to ensure service standards consistently remain below the 35-minute threshold.
+
 ## Dashboard Preview
 
 ![Hospital Dashboard](Hospital-Patient-Experience-Analytics-Dashboard.png)
