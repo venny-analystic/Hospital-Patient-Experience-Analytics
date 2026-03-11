@@ -33,6 +33,9 @@ Analysis shows an average hospital wait time of 35.26 minutes, with peak visits 
 - Data Aggregation
 - Linear Regression Analysis
 
+### Interactive Dashboard
+View the interactive Tableau dashboard here: https://public.tableau.com/app/profile/venny.deslaweny
+
 ### Dataset Source:
 https://docs.google.com/spreadsheets/d/1V7ut_DBW5pZDIUd-DeCWSstFEmS9-DDjI8ZjKR6nClI/edit?gid=2077642394#gid=2077642394
 
