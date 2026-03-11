@@ -1,4 +1,4 @@
-# Healthcare Operational Efficiency Patient Satisfaction Analysis
+# Hospital Patient Experience & Operational Efficiency Analysis
 
 ## SECTION 1: PROJECT SUMMARY FOR PORTFOLIO
 ### Summary/Context
