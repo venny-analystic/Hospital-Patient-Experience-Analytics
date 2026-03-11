@@ -43,5 +43,21 @@ https://docs.google.com/spreadsheets/d/1V7ut_DBW5pZDIUd-DeCWSstFEmS9-DDjI8ZjKR6n
 - Scatter Plot & Trend Line: Displays the correlation between wait time duration and the decline in patient satisfaction through regression analysis.
 - Interactive Dashboard: An integrated view of all key operational metrics for RevoU Hospital to enable real-time management monitoring.
 
+## BUSINESS IMPACT
+The analysis provides actionable insights for hospital management:
+- Reducing average wait times below 35 minutes to maintain high patient satisfaction levels.
+- Optimizing staff allocation during peak hours (22:00–01:00).
+- Identifying high-pressure departments such as Neurology that require operational improvements.
+- Implementing real-time dashboard monitoring to support data-driven hospital management decisions.
+
+## Dashboard Preview
+
+![Hospital Dashboard](Hospital-Patient-Experience-Analytics-Dashboard.png)
+
+## Project Files
+- Hospital-Patient-Experience-Analytics-Dataset.csv — raw hospital visit data
+- Hospital-Patient-Experience-Analytics-Dashboard.png — Tableau dashboard preview
+- Hospital_dashboard.twbx — interactive Tableau dashboard
+
 ## Author
 Venny Amilia Deslaweny
