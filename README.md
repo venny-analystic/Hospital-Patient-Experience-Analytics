@@ -33,6 +33,9 @@ Analysis shows an average hospital wait time of 35.26 minutes, with peak visits 
 - Data Aggregation
 - Linear Regression Analysis
 
+### Dataset Source:
+https://docs.google.com/spreadsheets/d/1V7ut_DBW5pZDIUd-DeCWSstFEmS9-DDjI8ZjKR6nClI/edit?gid=2077642394#gid=2077642394
+
 ## SECTION 4: VISUAL SUGGESTIONS
 - Horizontal Bar Chart: Displays wait time comparisons per department to highlight the Neurology unit as having the highest bottleneck.
 - Line Chart (Peak Hours): Visualizes patient arrival fluctuations throughout the day, showing extreme surges at 12 AM.
